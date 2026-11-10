@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="72" y="250" fill="#0B2545" font-family="Arial, sans-serif" font-size="56" font-weight="700">
+    Adriana Maid &amp; Handyman Services
+  </text>
+  <text x="72" y="320" fill="#13A89E" font-family="Arial, sans-serif" font-size="30" font-weight="600">
+    Trimming · Handyman · Cleaning · Garage Door · Delivery
+  </text>
+  <text x="72" y="380" fill="#0B2545" font-family="Arial, sans-serif" font-size="28">
+    Park City and nearby Utah communities · (801) 671-106
+  </text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6F3FF"/>
+      <stop offset="1" stop-color="#F7FAFC"/>
+    </linearGradient>
+  </defs>
+</svg>
